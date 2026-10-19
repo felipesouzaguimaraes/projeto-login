@@ -31,7 +31,7 @@ O projeto foi construído pensando primeiramente na experiência em dispositivos
 
 ### 📸 Prévia do Layout (Desktop)
 <p align="center">
-  <img src="imagens/print-desktop.png" alt="Demonstração do Projeto Login" width="100%">
+  <img width="1907" height="915" alt="print-layout" src="https://github.com/user-attachments/assets/3a09f516-70b6-404f-9b8c-84563fe8b0f0" />
 </p>
 
 ---
